@@ -34,7 +34,7 @@ public class speetest {
 	
 	@When("^User Click on Start Test button$")
 	public void user_Click_on_Start_Test_button() throws Throwable {
-	    // Write code here that turns the phrase above into concrete actions
+// 	    Test method
 	    throw new PendingException();
 	}
 	
