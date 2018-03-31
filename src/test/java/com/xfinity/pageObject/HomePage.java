@@ -18,4 +18,5 @@ public class HomePage {
 	public void slickStartBtn() {
 		startBTN.click();
 	}
+//	
 }
