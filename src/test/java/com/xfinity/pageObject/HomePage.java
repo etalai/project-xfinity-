@@ -14,4 +14,8 @@ public class HomePage {
 	
 	@FindBy(css="#action-start-test")
 	public WebElement startBTN;
+	
+	public void slickStartBtn() {
+		startBTN.click();
+	}
 }
